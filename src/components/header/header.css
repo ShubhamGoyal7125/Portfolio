@@ -51,6 +51,11 @@ header{
     overflow: hidden;
 }
 
+.me img{
+    height: 100%;
+    width: 22rem;
+}
+
 /* ==================== SCROLL DOWN ========================= */
 
 .scroll__down{

@@ -12,20 +12,14 @@ import 'swiper/css/pagination';
 
 
 import './testimonials.css'
-import Avatar1 from '../../assets/avatar1.jpg'
-import Avatar2 from '../../assets/avatar2.jpg'
+import Avatar1 from '../../assets/salesCaptain.jfif'
 
 
 const data = [
   {
     avatar: Avatar1,
     name: 'SalesCaptain',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolore explicabo aliquid beatae cupiditate placeat architecto quis tenetur, rem blanditiis dignissimos optio magnam iure natus sapiente odit officia similique ullam velit totam reprehenderit dolores ut exercitationem! Quis architecto quas sint.'
-  },
-  {
-    avatar: Avatar2,
-    name: 'Software Development Cell, Guru Gobind Singh Indraprastha University',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolore explicabo aliquid beatae cupiditate placeat architecto quis tenetur, rem blanditiis dignissimos optio magnam iure natus sapiente odit officia similique ullam velit totam reprehenderit dolores ut exercitationem! Quis architecto quas sint.'
+    review: 'During his internship, he was exposed to the various activities related to Backend Development and was actively involved in the projects and tasks assigned to him. During the span, we found him punctual and hardworking person. His learning powers are good. His feedback and evolution proved that he learned keenly. Moreover, his interpersonal and communication skills are brilliant. His association with us was very fruitful and we wish him all the best with the future endeavors.'
   }
 ]
 
@@ -36,10 +30,10 @@ const Testimonials = () => {
       <h2>Testimonials</h2>
 
       <Swiper className="container testimonials__container"
-      modules={[Pagination]}
-      spaceBetween={40}
-      slidesPerView={1}
-      pagination={{ clickable: true }}
+        modules={[Pagination]}
+        spaceBetween={40}
+        slidesPerView={1}
+        pagination={{ clickable: true }}
       >
         {
           data.map(({ avatar, name, review }, index) => {
