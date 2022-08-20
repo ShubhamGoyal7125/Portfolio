@@ -1,9 +1,9 @@
 import React from 'react'
 import './about.css'
 import ME from '../../assets/me-about.jpeg'
-import {FaAward} from 'react-icons/fa'
-import {BsBuilding} from 'react-icons/bs'
-import {RiFolderChartLine} from 'react-icons/ri'
+import { FaAward } from 'react-icons/fa'
+import { BsBuilding } from 'react-icons/bs'
+import { RiFolderChartLine } from 'react-icons/ri'
 
 const About = () => {
   return (
@@ -23,25 +23,28 @@ const About = () => {
           <div className="about__cards">
 
             <article className="about__card">
-              <FaAward className='about__icon'/>
+              <FaAward className='about__icon' />
               <h5>Experience</h5>
               <small>1.5+ years Working</small>
             </article>
 
             <article className="about__card">
-              <BsBuilding className='about__icon'/>
+              <BsBuilding className='about__icon' />
               <h5>Internships</h5>
-              <small>3+ Completed</small>
+              <small>3+ Completed/Ongoing</small>
             </article>
 
             <article className="about__card">
-              <RiFolderChartLine className='about__icon'/>
+              <RiFolderChartLine className='about__icon' />
               <h5>Projects</h5>
-              <small>10+ Completed</small>
+              <small>20+ Completed</small>
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima officia non ex totam enim veniam eius praesentium consequuntur, doloribus qui laborum id nobis sapiente repellat natus cum ea aperiam fugit.</p>
+          <p>Hello, I am Shubham Goyal. I am a Full-stack web developer in MERN Stack.
+            Currently, I am the lead of the Web Development Team of SDC-USICT, GGSIPU.
+            Recently, I did an internship at SalesCaptain Company as a Backend Developer. Also I did an an internship at Utkrisht - USICT, GGSIPU under my University Professor in which I built a E-Commerce metaverse mall with AR and VR functionalities.
+            You can talk to me about Web Designing and Development.</p>
           <a href="#contact" className='btn btn-primary'>Message Me</a>
         </div>
 

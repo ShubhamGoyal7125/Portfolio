@@ -1,5 +1,5 @@
 import React from 'react'
-import {BiCheck} from 'react-icons/bi'
+import { BiCheck } from 'react-icons/bi'
 import './services.css'
 
 const Services = () => {
@@ -18,7 +18,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list__icon' />
-              <p>Responsive Website with React.js</p>
+              <p>Responsive Website</p>
             </li>
 
             <li>
@@ -33,7 +33,7 @@ const Services = () => {
 
             <li>
               <BiCheck className='service__list__icon' />
-              <p>Wordpress Website using Elementer and other plugins.</p>
+              <p>Wordpress Website</p>
             </li>
 
           </ul>
@@ -46,6 +46,12 @@ const Services = () => {
           </div>
 
           <ul className="service__list">
+
+            <li>
+              <BiCheck className='service__list__icon' />
+              <p>Precise Code</p>
+            </li>
+
             <li>
               <BiCheck className='service__list__icon' />
               <p>Security Features</p>

@@ -17,7 +17,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details__icon' />
               <div>
-                <h4>HTML</h4>
+                <h4>HTML5</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -25,7 +25,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details__icon' />
               <div>
-                <h4>CSS</h4>
+                <h4>CSS3</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -35,6 +35,14 @@ const Experience = () => {
               <div>
                 <h4>JavaScript</h4>
                 <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details__icon' />
+              <div>
+                <h4>React.js</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
 
@@ -57,7 +65,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details__icon' />
               <div>
-                <h4>React</h4>
+                <h4>WordPress</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -85,7 +93,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details__icon' />
               <div>
                 <h4>Express.js</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
 
@@ -93,6 +101,14 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details__icon' />
               <div>
                 <h4>MySQL</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details__icon' />
+              <div>
+                <h4>Postman</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -108,7 +124,23 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details__icon' />
               <div>
-                <h4>API</h4>
+                <h4>MongoDB Atlas</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details__icon' />
+              <div>
+                <h4>REST API</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details__icon' />
+              <div>
+                <h4>Google Cloud APIs</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -116,6 +148,82 @@ const Experience = () => {
           </div>
 
         </div>
+
+
+        <div className="experience__frontend">
+          <h3>General</h3>
+          <div className="experience__content">
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details__icon' />
+              <div>
+                <h4>DSA & OOPS in C++</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details__icon' />
+              <div>
+                <h4>Twilio, SendGrid API</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details__icon' />
+              <div>
+                <h4>Chargebee API</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details__icon' />
+              <div>
+                <h4>Heroku</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details__icon' />
+              <div>
+                <h4>Git, Github</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details__icon' />
+              <div>
+                <h4>UI/UX</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details__icon' />
+              <div>
+                <h4>SEO</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details__icon' />
+              <div>
+                <h4>Java</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+          </div>
+
+        </div>
+
+
+
       </div>
     </section>
 
