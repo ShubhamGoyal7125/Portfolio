@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.6234ce35.css",
-    "main.js": "/Portfolio/static/js/main.02bbeb09.js",
-    "static/media/me.png": "/Portfolio/static/media/me.1d5255cfc5f8b4194a09.png",
+    "main.css": "/Portfolio/static/css/main.71b73da0.css",
+    "main.js": "/Portfolio/static/js/main.00ca733e.js",
+    "static/media/newsapp_project.png": "/Portfolio/static/media/newsapp_project.594c2065a152c4d9c67f.png",
+    "static/media/portfolio_project.png": "/Portfolio/static/media/portfolio_project.bbb420e56e01bfc9d25e.png",
+    "static/media/drumkit_project.png": "/Portfolio/static/media/drumkit_project.fc56e60b39d3d9e2b67b.png",
+    "static/media/me.png": "/Portfolio/static/media/me.4359cb114d73622988d9.png",
     "static/media/me-about.jpeg": "/Portfolio/static/media/me-about.05921841fdfd503803f7.jpeg",
     "static/media/cv.pdf": "/Portfolio/static/media/cv.fa8172397fa82a41e8dc.pdf",
-    "static/media/portfolio1.jpg": "/Portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/blog_project.png": "/Portfolio/static/media/blog_project.a272016f8729a803a2d0.png",
+    "static/media/iNotebook_project.png": "/Portfolio/static/media/iNotebook_project.b11ab88809f8ab1e63dd.png",
+    "static/media/todolist_project.png": "/Portfolio/static/media/todolist_project.33ef244cede778ff1fc8.png",
+    "static/media/salesCaptain.jfif": "/Portfolio/static/media/salesCaptain.3599db7eb6b39592c2f9.jfif",
+    "static/media/sdcusict.jfif": "/Portfolio/static/media/sdcusict.f9f778421fe62ac560ec.jfif",
     "index.html": "/Portfolio/index.html",
-    "main.6234ce35.css.map": "/Portfolio/static/css/main.6234ce35.css.map",
-    "main.02bbeb09.js.map": "/Portfolio/static/js/main.02bbeb09.js.map"
+    "main.71b73da0.css.map": "/Portfolio/static/css/main.71b73da0.css.map",
+    "main.00ca733e.js.map": "/Portfolio/static/js/main.00ca733e.js.map"
   },
   "entrypoints": [
-    "static/css/main.6234ce35.css",
-    "static/js/main.02bbeb09.js"
+    "static/css/main.71b73da0.css",
+    "static/js/main.00ca733e.js"
   ]
 }
