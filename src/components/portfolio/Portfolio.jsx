@@ -26,8 +26,8 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'To Do List',
-    github: 'https://hidden-lowlands-19867.herokuapp.com/',
-    demo: 'https://github.com/ShubhamGoyal7125/To-Do-List-New'
+    github: 'https://github.com/ShubhamGoyal7125/To-Do-List-New',
+    demo: 'https://hidden-lowlands-19867.herokuapp.com/'
   },
   {
     id: 4,
