@@ -42,9 +42,16 @@
 }
 
 #after__message__send{
-    color: rgb(129, 245, 129);
     font-weight: 700;
-    background: rgba(0, 0, 0, 0.6);
+    background-color: transparent;
+    width: max-content;
+    display: inline-block;
+    color: var(--color-primary);
+    padding: 0.75rem 1.2rem;
+    border-radius: 0.4rem;
+    border: 1px solid var(--color-primary);
+    cursor: pointer;
+    transition: var(--transition);
 }
 
 /* ======================= FORM ======================= */

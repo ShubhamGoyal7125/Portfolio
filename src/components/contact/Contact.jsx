@@ -66,7 +66,7 @@ const Contact = () => {
           <textarea name="message" rows="7" placeholder='Your Message' required></textarea>
           <div className="form__buttons">
           <button type="submit" className='btn btn-primary' onClick={handleSend}>Send Message</button>
-          <button className='btn' id='after__message__send' style={{display: messageSentDisplay}}>Message Sent Successfully</button>
+          <button id='after__message__send' style={{display: messageSentDisplay}}>Message Sent Successfully</button>
           </div>
         </form>
 

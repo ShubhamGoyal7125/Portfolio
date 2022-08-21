@@ -13,6 +13,7 @@ import 'swiper/css/pagination';
 
 import './testimonials.css'
 import Avatar1 from '../../assets/salesCaptain.jfif'
+import Avatar2 from '../../assets/sdcusict.jfif'
 
 
 const data = [
@@ -22,9 +23,9 @@ const data = [
     review: 'During his internship, he was exposed to the various activities related to Backend Development and was actively involved in the projects and tasks assigned to him. During the span, we found him punctual and hardworking person. His learning powers are good. His feedback and evolution proved that he learned keenly. Moreover, his interpersonal and communication skills are brilliant. His association with us was very fruitful and we wish him all the best with the future endeavors.'
   },
   {
-    avatar: Avatar1,
+    avatar: Avatar2,
     name: 'SDC-USICT, Guru Gobind Singh Indraprastha University',
-    review: 'During his internship, he is currently exposed to the various activities related to Project Management and Frontend Development and was actively involved in the projects. He is a hardworking person. His team leading skills are great. Moreover, his communication skills are brilliant. His association with us is very fruitful.'
+    review: 'In this internship, he is currently exposed to the various activities related to Project Management and Frontend Development and he is actively involved in the projects of University. He is a hardworking person. His leadership skills are great. Moreover, his communication skills are brilliant. His association with us is very fruitful.'
   }
 ]
 

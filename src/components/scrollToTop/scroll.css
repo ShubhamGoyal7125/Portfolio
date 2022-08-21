@@ -1,5 +1,5 @@
 .scroll__container{
-    background: var(--color-primary-varient);
+    background: var(--color-bg-varient);
     display: inline;
     position: fixed;
     right: 5%;
@@ -7,7 +7,7 @@
     width: max-content;
     bottom: 2rem;
     border-radius: 0.5rem;
-    border: 2px solid var(--color-primary);
+    border: 2px solid #1085d8;
     
 }
 
