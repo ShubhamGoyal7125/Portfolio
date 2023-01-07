@@ -20,14 +20,14 @@ const data = [
     image: IMG2,
     title: 'iNoteBook',
     github: 'https://github.com/ShubhamGoyal7125/inotebook',
-    demo: 'https://github.com/ShubhamGoyal7125/inotebook'
+    demo: 'https://inotebook-snowy.vercel.app/login'
   },
   {
     id: 3,
     image: IMG3,
     title: 'To Do List',
-    github: 'https://github.com/ShubhamGoyal7125/To-Do-List-New',
-    demo: 'https://hidden-lowlands-19867.herokuapp.com/'
+    github: 'https://github.com/ShubhamGoyal7125/toDoList',
+    demo: 'https://github.com/ShubhamGoyal7125/toDoList'
   },
   {
     id: 4,
@@ -39,16 +39,16 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'News App',
+    title: 'News-Daily',
     github: 'https://github.com/ShubhamGoyal7125/News-Daily',
-    demo: 'https://github.com/ShubhamGoyal7125/News-Daily'
+    demo: 'https://news-daily-liard.vercel.app/'
   },
   {
     id: 6,
     image: IMG6,
     title: 'Drum Kit',
     github: 'https://github.com/ShubhamGoyal7125/Drum-kit',
-    demo: 'https://drum-kit-shubham.herokuapp.com/'
+    demo: 'https://github.com/ShubhamGoyal7125/Drum-kit'
   },
 
 ]
