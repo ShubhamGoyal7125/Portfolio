@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.dde681a1.css",
-    "main.js": "/Portfolio/static/js/main.9002117a.js",
+    "main.js": "/Portfolio/static/js/main.b7b4e79d.js",
     "static/media/newsapp_project.png": "/Portfolio/static/media/newsapp_project.594c2065a152c4d9c67f.png",
     "static/media/portfolio_project.png": "/Portfolio/static/media/portfolio_project.bbb420e56e01bfc9d25e.png",
     "static/media/drumkit_project.png": "/Portfolio/static/media/drumkit_project.fc56e60b39d3d9e2b67b.png",
     "static/media/me.png": "/Portfolio/static/media/me.4359cb114d73622988d9.png",
     "static/media/me-about.jpeg": "/Portfolio/static/media/me-about.05921841fdfd503803f7.jpeg",
-    "static/media/cv.pdf": "/Portfolio/static/media/cv.115d28b68c5040f1e832.pdf",
+    "static/media/cv.pdf": "/Portfolio/static/media/cv.8bc4a35592b25c538c4a.pdf",
     "static/media/blog_project.png": "/Portfolio/static/media/blog_project.a272016f8729a803a2d0.png",
     "static/media/iNotebook_project.png": "/Portfolio/static/media/iNotebook_project.b11ab88809f8ab1e63dd.png",
     "static/media/todolist_project.png": "/Portfolio/static/media/todolist_project.33ef244cede778ff1fc8.png",
@@ -15,10 +15,10 @@
     "static/media/sdcusict.jfif": "/Portfolio/static/media/sdcusict.f9f778421fe62ac560ec.jfif",
     "index.html": "/Portfolio/index.html",
     "main.dde681a1.css.map": "/Portfolio/static/css/main.dde681a1.css.map",
-    "main.9002117a.js.map": "/Portfolio/static/js/main.9002117a.js.map"
+    "main.b7b4e79d.js.map": "/Portfolio/static/js/main.b7b4e79d.js.map"
   },
   "entrypoints": [
     "static/css/main.dde681a1.css",
-    "static/js/main.9002117a.js"
+    "static/js/main.b7b4e79d.js"
   ]
 }
