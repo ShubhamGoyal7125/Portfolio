@@ -31,7 +31,7 @@ const About = () => {
             <article className="about__card">
               <BsBuilding className='about__icon' />
               <h5>Internships</h5>
-              <small>3+ Completed/Ongoing</small>
+              <small>3+ Completed</small>
             </article>
 
             <article className="about__card">
@@ -41,8 +41,8 @@ const About = () => {
             </article>
           </div>
 
-          <p>Hello, I am Shubham Goyal. I am a Full-stack web developer (MERN).
-            I was the lead of the Web Development Team of SDC-USICT, GGSIPU.
+          <p>Hello, I am Shubham Goyal. I am a Full-stack web developer (MERN Stack).
+            I was the lead of the Web Development Team of SDC-USICT, GGSIPU and developed the official website of GGSIPU.
             Recently, I did an internship at SalesCaptain Company as a Backend Developer. Also I did an an internship at Utkrisht - USICT, GGSIPU under my University Professor in which I built a E-Commerce metaverse mall with AR and VR functionalities.
             You can talk to me about Software Designing and Development.</p>
           <a href="#contact" className='btn btn-primary'>Message Me</a>
