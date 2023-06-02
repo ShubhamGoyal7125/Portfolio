@@ -41,10 +41,11 @@ const About = () => {
             </article>
           </div>
 
-          <p>Hello, I am Shubham Goyal. I am a Full-stack web developer (MERN Stack).
-            I was the lead of the Web Development Team of SDC-USICT, GGSIPU and developed the official website of GGSIPU.
-            Recently, I did an internship at SalesCaptain Company as a Backend Developer. Also I did an an internship at Utkrisht - USICT, GGSIPU under my University Professor in which I built a E-Commerce metaverse mall with AR and VR functionalities.
-            You can talk to me about Software Designing and Development.</p>
+          <p>Hi there! I'm Shubham Goyal, a skilled Full-stack web developer experienced in the MERN Stack. I've successfully developed the official website for GGSIPU while leading the Web Development Team at SDC-USICT, GGSIPU.
+
+As a Backend Developer at SalesCaptain Company, I contributed to the team's success. I also built an impressive E-Commerce metaverse mall with AR and VR functionalities during my internship at Utkrisht - USICT, GGSIPU.
+
+I take pride in being recognized by the Vice Chancellor for my work on the university's annual cultural fest website. With over 250 solved Data Structures and Algorithms questions, I'm dedicated to continuous growth. <b>Let's connect and collaborate on impactful projects.</b> </p>
           <a href="#contact" className='btn btn-primary'>Message Me</a>
         </div>
 
