@@ -41,11 +41,9 @@ const About = () => {
             </article>
           </div>
 
-          <p>Hi there! I'm Shubham Goyal, a skilled Full-stack web developer experienced in the MERN Stack. I've successfully developed the official website for GGSIPU while leading the Web Development Team at SDC-USICT, GGSIPU.
+          <p>I'm Shubham Goyal, an accomplished Software Engineer. Leading the Web Development Team at SDC-USICT, we delivered the official GGSIPU website, showcasing my tech and leadership skills. As a Backend Developer at SalesBook Technologies Pvt. Ltd, I contributed significantly to our team's success.
 
-As a Backend Developer at SalesCaptain Company, I contributed to the team's success. I also built an impressive E-Commerce metaverse mall with AR and VR functionalities during my internship at Utkrisht - USICT, GGSIPU.
-
-I take pride in being recognized by the Vice Chancellor for my work on the university's annual cultural fest website. With over 250 solved Data Structures and Algorithms questions, I'm dedicated to continuous growth. <b>Let's connect and collaborate on impactful projects.</b> </p>
+During my internship at Utkrisht - USICT, GGSIPU, I built an innovative Metaverse mall with AR and VR, pushing web development boundaries. Recognized by the Vice Chancellor for website work and with over 350 solved Data Structures and Algorithms questions. <b>Let's connect and collaborate on impactful projects.</b> </p>
           <a href="#contact" className='btn btn-primary'>Message Me</a>
         </div>
 

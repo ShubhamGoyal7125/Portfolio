@@ -1,23 +1,23 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import './footer.css'
 import { BsInstagram, BsTwitter, BsGithub, BsLinkedin } from 'react-icons/bs'
 
 
 const Footer = () => {
 
-  const [count, setCount] = useState(0);
-  const count__visits = async () => {
-    fetch(process.env.REACT_APP_COUNT_API)
-      .then(res => res.json())
-      .then(res => {
-        setCount(res.value);
+  // const [count, setCount] = useState(0);
+  // const count__visits = async () => {
+  //   fetch(process.env.REACT_APP_COUNT_API)
+  //     .then(res => res.json())
+  //     .then(res => {
+  //       setCount(res.value);
 
-      });
-  }
+  //     });
+  // }
 
-  useEffect(() => {
-    count__visits();
-  }, []);
+  // useEffect(() => {
+  //   count__visits();
+  // }, []);
   
 
   return (
@@ -41,9 +41,9 @@ const Footer = () => {
         <a href="https://twitter.com/057Goyal" target="_blank" rel="noopener noreferrer"><BsTwitter /></a>
       </div>
 
-      <div className="footer__number__of__visitors" id="count">
+      {/* <div className="footer__number__of__visitors" id="count">
         <h3>Number of visitors: {count}</h3>
-      </div>
+      </div> */}
 
       <div className="footer__copywright">
         <small>&copy; Shubham Goyal. All Rights Reserved.</small>
