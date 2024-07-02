@@ -6,14 +6,22 @@ import IMG3 from '../../assets/todolist_project.png'
 import IMG4 from '../../assets/blog_project.png'
 import IMG5 from '../../assets/newsapp_project.png'
 import IMG6 from '../../assets/anugoonj_project.png'
+import IMG0 from '../../assets/debatehub.jpg'
 
 const data = [
+  {
+    id: 0,
+    image: IMG0,
+    title: 'DebateHub',
+    github: "",
+    demo: ""
+  },
   {
     id: 1,
     image: IMG1,
     title: 'College Buddy',
-    github: 'https://github.com/ssgroup2022/College_Buddy',
-    demo: 'https://github.com/ssgroup2022/College_Buddy'
+    github: 'https://github.com/ShubhamGoyal7125/College_Buddy',
+    demo: ""
   },
   {
     id: 2,
@@ -27,28 +35,29 @@ const data = [
     image: IMG6,
     title: 'Anugoonj',
     github: 'https://github.com/Anugoonj-Website/anugoonj',
-    demo: 'https://github.com/Anugoonj-Website/anugoonj'
+    demo: ""
   },
   {
     id: 4,
     image: IMG3,
     title: 'To Do List',
     github: 'https://github.com/ShubhamGoyal7125/toDoList',
-    demo: 'https://github.com/ShubhamGoyal7125/toDoList'
+    demo: ""
   },
   {
     id: 5,
     image: IMG4,
     title: 'Daily Journal',
     github: 'https://github.com/ShubhamGoyal7125/Blog-Website',
-    demo: 'https://github.com/ShubhamGoyal7125/Blog-Website'
+    demo: ""
   },
   {
     id: 6,
     image: IMG5,
     title: 'News-Daily',
     github: 'https://github.com/ShubhamGoyal7125/News-Daily',
-    demo: 'https://news-daily-liard.vercel.app/'
+    // demo: 'https://news-daily-liard.vercel.app/'
+    demo: ""
   }
 
 
@@ -72,8 +81,8 @@ const Portfolio = () => {
                 </div>
                 <h3>{title}</h3>
                 <div className="portfolio__item__cta">
-                  <a href={github} target="_blank" rel="noopener noreferrer" className='btn'>Github</a>
-                  <a href={demo} target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Live Demo</a>
+                  {github.length > 0 && <a href={github} target="_blank" rel="noopener noreferrer" className='btn'>Github</a>}
+                  {demo.length > 0 && <a href={demo} target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Live Demo</a>}
                 </div>
               </article>
             )
